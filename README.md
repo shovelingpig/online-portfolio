@@ -52,7 +52,7 @@
 - 기간 : 2019.06 ~ 2019.12
 - 역할 : Android Developer
 - 업무 : Google Map SDK를 일부 Custom하여 실시간 위치 공유 기능 구현, AWS SDK와 AWS Lambda를 이용한 Log Tracking System 개발 
-- 성과 : Google Playstore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 45&를 기록
+- 성과 : Google Playstore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 45%를 기록
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Google Map SDK, AWS SDK, Timber, MVP
 
 <img src='./images/fingercall_description.png' width="200" />
