@@ -11,6 +11,8 @@
 - 성과 : 투자 유치
 - 관련 기술 : MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
 
+---
+
 <img src='./images/podomarket_logo.png' width="80" />
 
 ### 포도마켓 (당근마켓 클론코딩)
@@ -19,6 +21,8 @@
 - 역할 : 8,709,411원
 - 성과 : 투자 유치
 - 관련 기술 : MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
+
+---
 
 <img src='./images/proudly_logo.png' width="80" />
 
@@ -29,6 +33,8 @@
 - 성과 : 투자 유치
 - 관련 기술 : MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
 
+---
+
 <img src='./images/fingercall_logo.png' width="80" />
 
 ### 핑거콜 (Finger Call)
@@ -37,3 +43,5 @@
 - 역할 : 8,709,411원
 - 성과 : 투자 유치
 - 관련 기술 : MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
+
+---
