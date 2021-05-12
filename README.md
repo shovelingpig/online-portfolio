@@ -1,6 +1,7 @@
 # Online Portfolio
 ## 프로젝트 이력
 
+---
 
 <img src='./images/snugh_logo.png' width="80" />
 
