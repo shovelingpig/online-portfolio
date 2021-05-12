@@ -62,7 +62,7 @@
 <img src='./images/meetingplaylist_logo.png' width="80" />
 
 ### 미.플.리. (Meeting Playlist)
-- 소개: XX하는 서비스
+- 소개: 대학생 중심의 미팅 주선 및 장소 예약 어플
 - 기간 : 2018.03 ~ 2019.02
 - 역할 : Team Lead
 - 업무 : RecylerView를 활용한 게시판 기능과 Pagination 구현, 댓글 기능 구현, 미팅 매칭 기능 구현, 장소 예약 및 쿠폰 발행 기능 구현
