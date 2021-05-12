@@ -1,4 +1,4 @@
-# Minchan's Online Portfolio
+# Online Portfolio
 ## 프로젝트 이력
 
 
