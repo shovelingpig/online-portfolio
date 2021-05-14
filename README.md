@@ -54,7 +54,7 @@
 - 성과 : 제 2회 Melting Pot Hackathon에서 전체 5개 팀 중에 2위를 기록
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Google Map SDK, AWS SDK, Timber, MVP
   
-<img src='./images/fingercall_main.png' width="250" />
+<img src='./images/fingercall_main2.png' width="250" />
 
 ---
 
