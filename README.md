@@ -10,10 +10,10 @@
 - 기간 : 2021.01 ~ present
 - 역할 : Team Lead
 - 업무 : Model 설계, API 설계, 서버 개발 및 배포, 서버 인프라 관리, Android 개발
-- 성과 : 런칭 이후 XX개월만에 XX명의 활성 사용자 유치
+- 성과 : 런칭 이후 1개월만에 약 200명의 활성 사용자 유치
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture, Sentry, Bitrise CI/CD
   
-<img src='./images/snugh_main.png' width="400" />
+<img src='./images/snugh_main_web.png' width="400" />
 
 ---
 
