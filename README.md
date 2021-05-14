@@ -52,7 +52,7 @@
 - 기간 : 2019.06 ~ 2019.12
 - 역할 : Android Developer
 - 업무 : Google Map SDK를 일부 Custom하여 실시간 위치 공유 기능 구현, AWS SDK와 AWS Lambda를 이용한 Log Tracking System 개발 
-- 성과 : Google Playstore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 45%를 기록
+- 성과 : 제 2회 Melting Pot Hackathon에서 전체 5개 팀 중에 2위를 기록
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Google Map SDK, AWS SDK, Timber, MVP
   
 <img src='./images/fingercall_main.png' width="200" />
@@ -66,7 +66,7 @@
 - 기간 : 2018.03 ~ 2019.02
 - 역할 : Team Lead
 - 업무 : RecylerView를 활용한 게시판 기능과 Pagination 구현, 댓글 기능 구현, 미팅 매칭 기능 구현, 장소 예약 및 쿠폰 발행 기능 구현
-- 성과 : MVP를 이용한 스타트업 IR 피칭 이후 소규모 투자 유치에 성공
+- 성과 : MVP(Minimum Viable Product)를 이용한 스타트업 IR 피칭 이후 소규모 투자 유치에 성공
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Pagination, FCM, Timber, MVP
   
 <img src='./images/meetingplaylist_main.png' width="250" />
