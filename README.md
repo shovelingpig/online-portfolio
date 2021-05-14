@@ -1,5 +1,4 @@
-# Minchan Kim's Portfolio
-## 프로젝트 이력
+# 프로젝트 이력
 
 ---
 
