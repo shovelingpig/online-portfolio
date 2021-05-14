@@ -14,7 +14,6 @@
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture, Sentry, Bitrise CI/CD
   
 <img src='./images/snugh_main_web.png' width="400" />
-<img src='./images/snugh_main_web.png' width="400" />
 
 ---
 
