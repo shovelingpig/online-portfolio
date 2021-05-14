@@ -27,7 +27,7 @@
 - 성과 : 클론코딩 프로젝트에 참여한 전체 8개의 팀 중에 3위, 웹 개발을 제외한 앱 개발 팀 중에 1위를 기록 
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture
 
-<img src='./images/podomarket_main.png' width="200" />
+> <img src='./images/podomarket_main.png' width="200" />
 
 ---
 
@@ -41,7 +41,7 @@
 - 성과 : Google Palystore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 66%를 기록 
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Room Database, OpenCV SDK, Timber, MVP
 
-<img src='./images/proudly_main.png' width="800" />
+<img src='./images/proudly_main.png' width="500" />
 
 ---
 
