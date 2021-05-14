@@ -47,11 +47,11 @@
 <img src='./images/fingercall_logo.png' width="80" />
 
 ### 핑거콜 (Finger Call)
-- 소개: 조직 내 지각비 관리 및 실시간 위치 공유 어플
+- 소개: 지각비 관리 및 실시간 위치 공유 어플
 - 기간 : 2019.06 ~ 2019.12
 - 역할 : Android Developer
 - 업무 : Google Map SDK를 일부 Custom하여 실시간 위치 공유 기능 구현, AWS SDK와 AWS Lambda를 이용한 Log Tracking System 개발 
-- 성과 : 제 2회 Melting Pot Hackathon에서 전체 5개 팀 중에 2위를 기록
+- 성과 : 제 2회 Melting Pot Hackathon에서 전체 6개 팀 중에 2위를 기록
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Google Map SDK, AWS SDK, Timber, MVP
   
 <img src='./images/fingercall_main2.png' width="250" />
