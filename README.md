@@ -12,7 +12,7 @@
 - 성과 : 런칭 이후 1개월만에 약 200명의 활성 사용자 유치
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture, Sentry, Bitrise CI/CD
   
-<img src='./images/snugh_main_web.png' width="1000" />
+<img src='./images/snugh_main_web.png' width="750" />
 
 ---
 
@@ -54,7 +54,7 @@
 - 성과 : 제 2회 Melting Pot Hackathon에서 전체 5개 팀 중에 2위를 기록
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Google Map SDK, AWS SDK, Timber, MVP
   
-<img src='./images/fingercall_main.png' width="200" />
+<img src='./images/fingercall_main.png' width="250" />
 
 ---
 
