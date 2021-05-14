@@ -12,7 +12,7 @@
 - 성과 : 런칭 이후 1개월만에 약 200명의 활성 사용자 유치
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture, Sentry, Bitrise CI/CD
   
-<img src='./images/snugh_main_web.png' width="400" />
+<img src='./images/snugh_main_web.png' width="750" />
 
 ---
 
@@ -26,7 +26,7 @@
 - 성과 : 클론코딩 프로젝트에 참여한 전체 8개의 팀 중에 3위, 웹 개발을 제외한 앱 개발 팀 중에 1위를 기록 
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture
   
-<img src='./images/podomarket_main.png' width="200" />
+<img src='./images/podomarket_main.png' width="250" />
 
 ---
 
@@ -40,21 +40,21 @@
 - 성과 : Google Palystore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 66%를 기록 
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Room Database, OpenCV SDK, Timber, MVP
   
-<img src='./images/proudly_main.png' width="400" />
+<img src='./images/proudly_main.png' width="500" />
 
 ---
 
 <img src='./images/fingercall_logo.png' width="80" />
 
 ### 핑거콜 (Finger Call)
-- 소개: 조직 내 지각비 관리 및 실시간 위치 공유 어플
+- 소개: 지각비 관리 및 실시간 위치 공유 어플
 - 기간 : 2019.06 ~ 2019.12
 - 역할 : Android Developer
 - 업무 : Google Map SDK를 일부 Custom하여 실시간 위치 공유 기능 구현, AWS SDK와 AWS Lambda를 이용한 Log Tracking System 개발 
-- 성과 : 제 2회 Melting Pot Hackathon에서 전체 5개 팀 중에 2위를 기록
+- 성과 : 제 2회 Melting Pot Hackathon에서 전체 6개 팀 중에 2위를 기록
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Google Map SDK, AWS SDK, Timber, MVP
   
-<img src='./images/fingercall_main2.png' width="200" />
+<img src='./images/fingercall_main2.png' width="250" />
 
 ---
 
