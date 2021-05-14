@@ -1,5 +1,5 @@
-# 프로젝트 이력
-## Minchan Kim - Android Developer
+# 김민찬의 온라인 
+## 프로젝트 이력
 ---
 
 <img src='./images/snugh_logo.png' width="80" />
