@@ -13,7 +13,7 @@
 - 성과 : 런칭 이후 XX개월만에 XX명의 활성 사용자 유치
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture, Sentry, Bitrise CI/CD
 
-<img src='./images/snugh_description.png' width="200" />
+<img src='./images/snugh_main.png' width="200" />
 
 ---
 
@@ -27,7 +27,7 @@
 - 성과 : 클론코딩 프로젝트에 참여한 전체 8개의 팀 중에 3위, 웹 개발을 제외한 앱 개발 팀 중에 1위를 기록 
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture
 
-<img src='./images/podomarket_description.png' width="200" />
+<img src='./images/podomarket_main.png' width="200" />
 
 ---
 
@@ -41,7 +41,7 @@
 - 성과 : Google Palystore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 66%를 기록 
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Room Database, OpenCV SDK, Timber, MVP
 
-<img src='./images/proudly_description.png' width="200" />
+<img src='./images/proudly_main.png' width="200" />
 
 ---
 
@@ -55,7 +55,7 @@
 - 성과 : Google Playstore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 45%를 기록
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Google Map SDK, AWS SDK, Timber, MVP
 
-<img src='./images/fingercall_description.png' width="200" />
+<img src='./images/fingercall_main.png' width="200" />
 
 ---
 
@@ -69,6 +69,6 @@
 - 성과 : MVP를 이용한 스타트업 IR 피칭 이후 소규모 투자 유치에 성공
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Pagination, FCM, Timber, MVP
 
-<img src='./images/meetingplaylist_description.png' width="200" />
+<img src='./images/meetingplaylist_main.png' width="200" />
 
 ---
