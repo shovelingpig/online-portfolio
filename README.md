@@ -9,6 +9,7 @@
 - 기간 : 2021.01 ~ present
 - 역할 : Team Lead
 - 업무 : Model 설계, API 설계, 서버 개발 및 배포, 서버 인프라 관리, Android 개발
+- 기여 : Backend(전체 커밋 중 52% 기여), Android(전체 커밋 중 100% 기여)
 - 성과 : 2020년 6월 중순 정식 런칭 예정
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Dagger2, FCM, Timber, MVVM, Clean Architecture
   
@@ -25,6 +26,7 @@
 - 역할 : Android Developer
 - 업무 : LiveData를 이용한 DataBinding 구현, Retrofit2와 Room을 이용한 Repository 패턴 구현, 카테고리별 상품 검색 기능 구현, 검색 자동완성 기능 구현, 관심 상품 저장 기능 구현, 마이페이지 구현
 - 성과 : 클론코딩 프로젝트에 참여한 전체 8개의 팀 중에 3위, 웹 개발을 제외한 앱 개발 팀 중에 1위를 기록 
+- 기여 : 전체 커밋 중 65% 기여
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture
   
 <img src='./images/podomarket_main.png' width="250" />
@@ -38,7 +40,8 @@
 - 기간 : 2020.01 ~ 2020.07
 - 역할 : Android Developer
 - 업무 : 여러가지 Custom UI Component 구현(Drag&Drop, SlidableRecyclerView, etc), OpenCV 모듈을 활용한 사진 유사도 계산 기능 구현, JobScheduler를 이용해 Persistant Background Service로 알람 기능 구현
-- 성과 : Google Palystore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 66%를 기록 
+- 성과 : Google Palystore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 66%를 기록
+- 기여 : 전체 커밋 
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Room Database, OpenCV SDK, Timber, MVP
   
 <img src='./images/proudly_main.png' width="500" />
