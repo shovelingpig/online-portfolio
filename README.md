@@ -23,7 +23,7 @@
 - 소개: 중고거래 플랫폼인 당근마켓을 클론코딩하는 프로젝트
 - 기간 : 2020.09 ~ 2020.12
 - 역할 : Android Developer
-- 업무 : LiveData를 이용한 DataBinding 구현, Retrofit2와 Room을 이용한 Repository 패턴 구현, 카테고리별 상품 검색 기능 구현, 검색 자동완성 기능 구현, 관심 상품 저장 기능 구현, 마이페이지 구현
+- 업무 : LiveData를 이용한 DataBinding 구현, Retrofit2와 Room을 이용한 Repository 패턴 구현, 카테고리별 상품 검색 기능 구현, 관심 상품 저장 기능 구현, 마이페이지 구현
 - 기여 : Android(전체 커밋 중 65% 기여)
 - 성과 : 클론코딩 프로젝트에 참여한 전체 8개의 팀 중에 3위, 웹 개발을 제외한 앱 개발 팀 중에 1위를 기록 
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Koin, FCM, Timber, MVVM, Clean Architecture
