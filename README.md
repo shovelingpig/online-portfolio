@@ -5,7 +5,7 @@
 <img src='./images/snugh_logo.png' width="80" />
 
 ### SNUGH (SNU Graduation Helper)
-- 소개: 대학생들을 위한 수강 계획 및 졸업요건 관리 서비스
+- 소개: 대학생들을 위한 수강계획 및 졸업요건 관리 서비스
 - 기간 : 2021.01 ~ present
 - 역할 : Team Lead
 - 업무 : Model 설계, API 설계, 서버 개발 및 배포, 서버 인프라 관리, Android 개발
