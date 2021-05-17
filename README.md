@@ -13,7 +13,7 @@
 - 성과 : 2020년 6월 중순 정식 런칭 예정
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Dagger2, FCM, Timber, MVVM, Clean Architecture
   
-<img src='./images/snugh_main_web.png' width="700" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='./images/snugh_main_app.png' width="250" />
+<img src='./images/snugh_main_web.png' width="700" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='./images/snugh_main_app.png' width="250" />
 
 ---
 
