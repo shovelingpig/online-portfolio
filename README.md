@@ -2,7 +2,7 @@
 ## 프로젝트 이력
 ---
 
-<img src='./images/snugh_logo.png' width="80" />
+<img src='./images/snugh_logo2.png' width="80" />
 
 ### SNUGH (SNU Graduation Helper)
 - 소개: 대학생들을 위한 수강계획 및 졸업요건 관리 서비스
