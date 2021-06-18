@@ -10,7 +10,7 @@
 - 역할 : Team Lead
 - 업무 : Model 설계, API 설계, 서버 개발 및 배포, 서버 인프라 관리, Android 개발
 - 기여 : Backend(전체 커밋 중 52% 기여), Android(전체 커밋 중 99% 기여)
-- 성과 : 2020년 6월 중순 정식 런칭 예정
+- 성과 : 2021년 7월 중순 정식 런칭 예정
 - 관련 기술 : Kotlin, Coroutine, LiveData, DataBinding, OKHttp, Retrofit2, Room Database, Dagger2, FCM, Timber, MVVM, Clean Architecture
   
 <img src='./images/snugh_main_web.png' width="700" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;<img src='./images/snugh_main_app2.png' width="250" />
