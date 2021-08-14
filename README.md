@@ -4,7 +4,7 @@
 <img src='./images/smartsurvey_logo.jpeg' width="80" />
 
 ### 스마트설문 (Smart Survey)
-- 소개: 병원 내 인사평가를 위한 설문조사 시스템
+- 소개: 병원 내 인사평가를 위한 설문조사 웹서비스
 - 기간 : 2021.07 ~ 2021.08
 - 역할 : Backend Engineer
 - 업무 : ERD 설계, API 설계 및 개발, CI/CD 구축, 서버 인프라 관리, 로그 관리 시스템 구축
