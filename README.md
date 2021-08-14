@@ -1,7 +1,7 @@
 ## 프로젝트 이력
 ---
 
-<img src='./images/snugh_logo2.png' width="80" />
+<img src='./images/smartsurvey_logo.jpeg' width="80" />
 
 ### 스마트설문 (Smart Survey)
 - 소개: 병원 내 인사평가를 위한 설문조사 시스템
@@ -12,7 +12,7 @@
 - 성과 : 제휴 병원에 서비스를 공급하여 2000만원 이상의 경제적 가치 창출
 - 관련 기술 : Node, Express, Sequelize ORM, MySQL, AWS(Elastic Beanstalk, S3, RDS, Route53, Cloud Watch, etc)
   
-<img src='./images/snugh_main_web.png' width="700" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;<img src='./images/snugh_main_app2.png' width="250" />
+<img src='./images/smartsurvey_main.png' width="700" height="400" />
 
 ---
 
