@@ -12,7 +12,7 @@
 - 성과 : 제휴 병원에 서비스를 공급하여 2000만원 이상의 경제적 가치 창출
 - 관련 기술 : Node, Express, Sequelize ORM, MySQL, AWS(Elastic Beanstalk, S3, RDS, Route53, Cloud Watch, etc)
   
-<img src='./images/smartsurvey_main.png' width="400" height="700" />
+<img src='./images/smartsurvey_main.png' width="400" height="600" />
 
 ---
 
