@@ -29,7 +29,7 @@
   
 <img src='./images/snugh_main_web1.png' width="700" height="400" />
 <img src='./images/snugh_main_web2.png' width="700" height="400" />
-<img src='./images/snugh_main_web3.png' width="400" height="600" />
+<img src='./images/snugh_main_web3.png' width="400" height="550" />
 <img src='./images/snugh_main_app2.png' width="250" />
 
 ---
