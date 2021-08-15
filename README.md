@@ -29,8 +29,7 @@
   
 <img src='./images/snugh_main_web1.png' width="700" height="400" />
 <img src='./images/snugh_main_web2.png' width="700" height="400" />
-<img src='./images/snugh_main_web3.png' width="400" height="550" />
-<img src='./images/snugh_main_app2.png' width="250" />
+<img src='./images/snugh_main_web3.png' width="400" height="550" />&nbsp;&nbsp;<img src='./images/snugh_main_app2.png' width="250" />
 
 ---
 
@@ -60,9 +59,10 @@
 - 성과 : Google Palystore 출시 이후 KPI로 설정했던 Stickiness(DAU/MAU) 지수가 월평균 66%를 기록
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Room Database, OpenCV SDK, Timber, MVP
   
-<img src='./images/proudly_main.png' width="500" />
-<img src='./images/proudly_main2.png' width="300" height="500" />&nbsp;&nbsp;<img src='./images/proudly_main3.png' width="300" height="500" />
-<img src='./images/proudly_main4.png' width="300" height="500" />&nbsp;&nbsp;<img src='./images/proudly_main5.png' width="300" height="500" />
+<img src='./images/proudly_main.png' width="500" />  
+
+<img src='./images/proudly_main2.png' width="300" height="500" />&nbsp;&nbsp;&nbsp;&nbsp;<img src='./images/proudly_main3.png' width="300" height="500" />
+<img src='./images/proudly_main4.png' width="300" height="500" />&nbsp;&nbsp;&nbsp;&nbsp;<img src='./images/proudly_main5.png' width="300" height="500" />
 <img src='./images/proudly_main6.png' width="300" height="500" />
 
 ---
