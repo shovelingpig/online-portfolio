@@ -27,7 +27,10 @@
 - 성과 : 2021년 9월 중순 정식 런칭 예정
 - 관련 기술 : Django, DRF, MySQL, Redis, Docker, Docker Compose, AWS(EC2, RDS, etc)
   
-<img src='./images/snugh_main_web.png' width="700" height="400" />&nbsp;&nbsp;&nbsp;&nbsp;<img src='./images/snugh_main_app2.png' width="250" />
+<img src='./images/snugh_main_web1.png' width="700" height="400" />
+<img src='./images/snugh_main_web2.png' width="700" height="400" />
+<img src='./images/snugh_main_web3.png' width="400" height="550" />
+<img src='./images/snugh_main_app2.png' width="250" />
 
 ---
 
