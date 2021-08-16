@@ -92,7 +92,7 @@
 - 역할 : Team Lead
 - 업무 : RecylerView를 활용한 게시판 기능과 Pagination 구현, 댓글 기능 구현, 미팅 매칭 기능 구현, 장소 예약 및 쿠폰 발행 기능 구현
 - 기여 : Android(전체 커밋 중 78% 기여)
-- 성과 : MVP(Minimum Viable Product)를 이용한 스타트업 IR 피칭 이후 소규모 투자 유치에 성공
+- 성과 : MVP(Minimum Viable Product)를 이용한 IR 피칭 이후 소규모 투자 유치에 성공
 - 관련 기술 : Java, RxJava, OKHttp, Retrofit2, Pagination, FCM, Timber, MVP
   
 <img src='./images/meetingplaylist_main.png' width="250" />
