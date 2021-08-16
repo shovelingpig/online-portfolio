@@ -65,7 +65,7 @@
 <img src='./images/proudly_main3.png' width="300" height="500" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='./images/proudly_main4.png' width="300" height="500" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='./images/proudly_main5.png' width="300" height="500" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='./images/proudly_main5.png' width="300" height="500" />
+<img src='./images/proudly_main6.png' width="300" height="500" />
 
 ---
 
